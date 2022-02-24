@@ -9,4 +9,4 @@
 - ⚡ Fun fact: Life is too short to remove USB safely
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killua-02&theme=midnight-purple&show_icons=true)
